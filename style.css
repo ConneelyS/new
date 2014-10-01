@@ -1,5 +1,4 @@
 /* Comments are green */
-
 #wrapper
 {
 	background-color:grey;
@@ -9,7 +8,6 @@
 	margin:0 auto;
 	margin-top:120px;
 }
-
 #header
 {	
 	background-color:orange;
@@ -17,18 +15,19 @@
 	height:15%;
 	color:black;
 }
-
 #side
 {	
 	background-color:orangered;
 	width:10%;
 	height:85%%;
-	color:black
+	color:black;
+	float:left;
 }
-
 #main
 {	
-	background-color:darkgreen;
-	width:15%;
-	height:60%;
+	background-color:green;
+	width:90%;
+	height:85%;
+	color:white;
+	float:left;
 }
